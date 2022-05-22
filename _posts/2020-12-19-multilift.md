@@ -129,29 +129,6 @@ The proposed approach has been validated both in simulation and indoor flight te
   publisher={American Institute of Aeronautics and Astronautics}
 }
 
-@inproceedings{geng2019implementation,
-  title={Implementation and demonstration of coordinated transport of a slung load by a team of rotorcraft},
-  author={Geng, Junyi and Langelaan, Jack W},
-  booktitle={AIAA Scitech 2019 Forum},
-  pages={0913},
-  year={2019}
-
-@inproceedings{geng2020mass,
-  title={Mass and Center of Mass Location Estimation for a Multi-lift Slung Load},
-  author={Geng, Junyi and Langelaan, Jack W},
-  booktitle={AIAA SciTech 2020 Forum},
-  pages={2067},
-  year={2020}
-}
-
-@inproceedings{geng2021trajectory,
-  title={Trajectory planning and control for a multilift system based on load distribution},
-  author={Geng, Junyi and Singla, Puneet and Langelaan, Jack W},
-  booktitle={AIAA Scitech 2021 Forum},
-  pages={0980},
-  year={2021}
-}
-
 ```
 
 
