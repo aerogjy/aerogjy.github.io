@@ -70,7 +70,6 @@ velocity, attitude, and angular velocity of the quadrotor.
 
 ## Video
 
-{% youtube 3AMcM3uUaUw %}
 
 
 ### Publication
