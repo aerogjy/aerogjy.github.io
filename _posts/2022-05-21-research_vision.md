@@ -14,7 +14,7 @@ title_image: None
 hero_height: is-small
 remove_hero_title: true
 link-new-tab: true
-show_sidebar: false
+show_sidebar: true
 hide_footer: false
 ---
 
