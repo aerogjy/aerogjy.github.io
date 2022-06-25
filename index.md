@@ -21,7 +21,7 @@ I was a Postdoc researcher of [Coordinated Science Lab](https://csl.illinois.edu
 My research goal is to advance state-of-the-art aerial autonomy by bridging the aerospace and robotic communities. My research is primarily concerned with perception and manipulation algorithms to enable high performance autonomy for aerial robots. I am enthusiastic about robotics and unmanned aerial system (UAS). I am also interested in optimization and machine learning and applying them on hardware. I love flying drones and building robots.
 
 # Recent News
-* <span style="color:red">04/2022:</span> I will join the [Deparment of Aerospace Engineering](https://www.aero.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/) as an Assistant Professor in Jan. 2023. 
+* <span style="color:red">04/2022:</span> I will join the [Deparment of Aerospace Engineering](https://www.aero.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/) as an Assistant Professor in Jan. 2023. I have multiple openings for graduate students. Contact me if you are interested. 
 
 * <span style="color:red">01/2022:</span> I gave a talk for [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE) at [Purdue University](https://www.purdue.edu/). 
 

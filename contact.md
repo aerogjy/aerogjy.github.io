@@ -15,7 +15,7 @@ hide_footer: true
 
 ## Office 
 
-NSH 2104, Carnegie Mellon University
+NSH 2103, Carnegie Mellon University
 
 5000 Forbes Ave, Pittsburgh, PA 15213
 
