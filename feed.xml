@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://aerogjy.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aerogjy.github.io/" rel="alternate" type="text/html" /><updated>2022-06-25T20:58:47+00:00</updated><id>https://aerogjy.github.io/feed.xml</id><title type="html">Junyi Geng</title><subtitle>Advancing aerial autonomy
+</subtitle><entry><title type="html">Perception and Manipulation</title><link href="https://aerogjy.github.io/rvision/" rel="alternate" type="text/html" title="Perception and Manipulation" /><published>2022-05-21T12:00:00+00:00</published><updated>2022-05-21T12:00:00+00:00</updated><id>https://aerogjy.github.io/research_vision</id><content type="html" xml:base="https://aerogjy.github.io/rvision/">&lt;p&gt;My research is guided by the desire to develop next generation of robotics, characterized by the growing demands for the robotic system that behave smart, efficient, and robust at lower cost. Many of the complex robotic systems or the robotic application for sophisticated tasks, such as multiple robots
+coordination or manipulating object, require the robot to interact with the environment: perceiving the environment, and then perform the manipulation. Perception provides the critical information to robot for planning and control, but it is challenging due to the uncertainty from the sensors and the limitation of the estimation techniques. As for manipulation, it cannot be completely understood and implemented without an integration strategy for design, modeling, testing, and performance optimization.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-05-21-research_vision/scope.png&quot; style=&quot;width:59%&quot; /&gt;
+ &lt;figcaption&gt;
+       Perception and Manipulation -- Robot
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;My research addresses these challenges for several manipulation tasks. In my Ph.D. dissertation, I chose to tackle one of the multi aerial robotics manipulation problem by creating a unique inertia based perception approach. Vision-based perception is the key part for robotic application such as grasping and navigation. In my postdoctoral work, I investigate one of the object pose estimation problems. I then apply it to a drone delivery application, which requires a comprehensive integration of design, modeling, control, perception and planning. Above those methods provide various possibilities for the robot to extract useful information from the environment and then interact with it. This enables smart, efficient and sustainable robotic operation.&lt;/p&gt;</content><author><name>Junyi Geng</name></author><category term="highlights" /><summary type="html">My research is guided by the desire to develop next generation of robotics, characterized by the growing demands for the robotic system that behave smart, efficient, and robust at lower cost. Many of the complex robotic systems or the robotic application for sophisticated tasks, such as multiple robots coordination or manipulating object, require the robot to interact with the environment: perceiving the environment, and then perform the manipulation. Perception provides the critical information to robot for planning and control, but it is challenging due to the uncertainty from the sensors and the limitation of the estimation techniques. As for manipulation, it cannot be completely understood and implemented without an integration strategy for design, modeling, testing, and performance optimization.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://aerogjy.github.io/img/posts/2022-05-21-research_vision/title.png" /><media:content medium="image" url="https://aerogjy.github.io/img/posts/2022-05-21-research_vision/title.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Contributing to the Diversity</title><link href="https://aerogjy.github.io/aerowomen/" rel="alternate" type="text/html" title="Contributing to the Diversity" /><published>2022-05-21T12:00:00+00:00</published><updated>2022-05-21T12:00:00+00:00</updated><id>https://aerogjy.github.io/aerowomen</id><content type="html" xml:base="https://aerogjy.github.io/aerowomen/">&lt;p&gt;A diverse and inclusive working and learning environment fosters the understanding, communication, respect, and collaboration. I believe a high quality university education has the power to help close the gaps that separate communities due to disparities in opportunity and access. Throughout my academic
+career, I found that my graduate school and postdoctoral experiences was enriched by the diverse pool of people from a great variety of countries and cultures, and from different underrepresented groups. As a woman in STEM, I consider myself to be contributing to the cultural diversity based on my
+experiences.&lt;/p&gt;
+
+&lt;h2 id=&quot;services&quot;&gt;Services&lt;/h2&gt;
+&lt;p&gt;I believe that women and minorities can achieve excellence in the fields where they are traditionally underrepresented. I have aimed to improve the diversity, equality, and inclusion in aerospace engineering, a major typically dominated by males.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I have served in the Penn State AeroWomen group, which provided opportunities for members to network with faculty, alumni, and industry personnel and to develop academic and professional skills.&lt;/li&gt;
+  &lt;li&gt;I have organized various activities targeted at the female engineering students.
+    &lt;ul&gt;
+      &lt;li&gt;I have organized and hosted the first AeroWomen networking event with aerospace recruiters and alumni during career fair week,&lt;/li&gt;
+      &lt;li&gt;I have organized the movie night showing the biography stories of successful women, helped organize the ice cream social and hiking event, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;involvement&quot;&gt;Involvement&lt;/h2&gt;
+&lt;p&gt;I believe that if there is more communication, understanding and involvement, the situation that women are rated as less dominant and less trustworthy will be improved. I have actively been involved into diversity-themed activities outside Penn State to enrich myself and contribute to the diversity.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I have been invited to join the 2019 Women in Aerospace Symposium hosted in MIT Aeronautics and Astronautics Department.&lt;/li&gt;
+  &lt;li&gt;I have been invited to join 2021 Rising Star in Aerospace Workshop hosted in MIT Aeronautics and Astronautics Department.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Junyi Geng</name></author><category term="highlights" /><summary type="html">A diverse and inclusive working and learning environment fosters the understanding, communication, respect, and collaboration. I believe a high quality university education has the power to help close the gaps that separate communities due to disparities in opportunity and access. Throughout my academic career, I found that my graduate school and postdoctoral experiences was enriched by the diverse pool of people from a great variety of countries and cultures, and from different underrepresented groups. As a woman in STEM, I consider myself to be contributing to the cultural diversity based on my experiences.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://aerogjy.github.io/img/posts/2022-05-21-aerowomen/title.png" /><media:content medium="image" url="https://aerogjy.github.io/img/posts/2022-05-21-aerowomen/title.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Design, Modeling and Control for a Tilt-rotor VTOL UAV in the Presence of Actuator Failure</title><link href="https://aerogjy.github.io/vtol/" rel="alternate" type="text/html" title="Design, Modeling and Control for a Tilt-rotor VTOL UAV in the Presence of Actuator Failure" /><published>2022-03-01T12:00:00+00:00</published><updated>2022-03-01T12:00:00+00:00</updated><id>https://aerogjy.github.io/vtol</id><content type="html" xml:base="https://aerogjy.github.io/vtol/">&lt;p&gt;Enabling vertical take-off and landing while providing the ability to fly long ranges opens the door to a wide range of new real-world aircraft applications while improving many existing tasks. Tiltrotor vertical take-off and landing (VTOL) unmanned aerial vehicles (UAVs) are a better choice
+than fixed-wing and multirotor aircraft for such applications. Prior works on these aircraft have addressed the aerodynamic performance, design, modeling, and control. However, a less explored area is the study of their potential fault tolerance due to their inherent redundancy, which allows them to tolerate some degree of actuation failure. This paper introduces tolerance to several types of actuator failures in a tiltrotor VTOL aircraft.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-03-01-vtol/VTOL.PNG&quot; style=&quot;width:59%&quot; /&gt;
+ &lt;figcaption&gt;
+        Tiltrotor VTOL aircraft designed in this work with four rotors, four tilting mechanisms, two ailerons, one elevator, and one rudder. The quadrotor arms have airfoil cross-sections.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;system-design&quot;&gt;System Design&lt;/h2&gt;
+&lt;p&gt;We design of tiltrotor VTOL UAV, which combines a fixed-wing aircraft and a variable-pitch quadrotor UAV. The direction of the four propellers can be individually controlled. Different from the tilting design in the state-of-the-art with an additional arm length, twin-rotors or other tilting multi-rotors, our quadrotor arms are entirely separated from the main wing, which makes the control less affected by the unexpected wing deformation. In addition, our tilting mechanism directly tilts the rotors at the end of the quadrotor arm. Moreover, the quadrotor arms have airfoil cross-sections, which can provide additional lift for the vehicle during forward motion.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-03-01-vtol/tilting.PNG&quot; style=&quot;width:65%&quot; /&gt;
+ &lt;figcaption&gt;
+        Rotation mechanism in three different positions.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;wrench-space-analysis&quot;&gt;Wrench Space Analysis&lt;/h2&gt;
+&lt;p&gt;We model the nonlinear dynamics, and then perform the wrench space analysis for the designed tiltrotor VTOL UAV under different flight configuration, static hovering, cruise flight and that when there is actuator failures.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-03-01-vtol/ws_analysis.png&quot; style=&quot;width:95%&quot; /&gt;
+ &lt;figcaption&gt;
+        Visualization of the tiltrotor VTOL’s feasible wrench sets. MC stands for multirotor and FW stands for the fixed-wing configuration.
+The wrench sets are computed around the trimmed condition for fixed-wing.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;control-in-actuator-failure&quot;&gt;Control in Actuator Failure&lt;/h2&gt;
+&lt;p&gt;The existing solution for VTOL UAVs usually needs to load the proper mixer files to map the desired control wrench to each actuator input, which can only handle the aircraft with a fixed configuration. Instead, we developed a dynamic control allocation scheme, so it adapts to a potential vehicle configuration change, such as an actuator failure. This dynamic control allocation benefits from configuration redundancy to make the aircraft robust to actuator failures. By solving a constraint optimization problem under a carefully designed objective, the aircraft can recover from a set of actuator failures in different flight phases of the VTOL.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-03-01-vtol/diagram.png&quot; style=&quot;width:60%&quot; /&gt;
+ &lt;figcaption&gt;
+        VTOL control diagram with dynamic control allocation.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;validation&quot;&gt;Validation&lt;/h2&gt;
+
+&lt;p&gt;We validate our approach on a set of actuator failure cases, including motor failure, control surfaces lock under difference flight phases: multirotor and fixed-wing.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-03-01-vtol/motor_mc.gif&quot; style=&quot;width:80%&quot; /&gt;
+ &lt;figcaption&gt;
+        Comparison of the VTOL performance with/without motor failure informed in multirotor phase.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-03-01-vtol/motor_fw.gif&quot; style=&quot;width:80%&quot; /&gt;
+ &lt;figcaption&gt;
+        Comparison of the VTOL performance with/without motor failure informed in fixed-wing phase.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;http://www.youtube.com/embed/hrlpgeTy-0g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;related-paper&quot;&gt;Related Paper&lt;/h3&gt;
+
+&lt;p&gt;The general ideas on design and modeling of our custom tiltrotor VTOL and desing of the optimization based dynamic control allocation (so that the system can adapt to actuator failures) are described in the following publication (access on &lt;a href=&quot;https://arxiv.org/abs/2205.05533&quot;&gt;arXiv&lt;/a&gt;):&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;BibTeX:&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{mousaei2022,
+author={Mohammadreza Mousaei and Junyi Geng and Azarakhsh Keipour and Dongwei Bai and Sebastian Scherer},
+booktitle={arXiv},
+title={Design, Modeling and Control for a Tilt-rotor VTOL UAV in the Presence of Actuator Failure}, 
+year={in press},
+link={https://arxiv.org/abs/2205.05533},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;IEEE Style:&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;M. Mousaei, J. Geng, A. Keipour, D. Bai, and S. Scherer, “Design, Modeling and Control for a Tilt-rotor VTOL UAV in the Presence of Actuator Failure,”, Under review. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;contact&quot;&gt;Contact&lt;/h3&gt;
+
+&lt;p&gt;Mohammadreza Mousaei (mmousaei [at] cs [dot] cmu [dot] edu)&lt;/p&gt;
+
+&lt;p&gt;Junyi Geng - (junyigen [at] andrew [dot] cmu [dot] edu)&lt;/p&gt;
+
+&lt;p&gt;Azarakhsh Keipour - (keipour [at] cmu [dot] edu)&lt;/p&gt;
+
+&lt;p&gt;Dongwei Bai - (saeedb [at] andrew [dot] cmu [dot] edu)&lt;/p&gt;
+
+&lt;p&gt;Sebastian Scherer - (basti [at] cmu [dot] edu)&lt;/p&gt;</content><author><name>Junyi Geng</name></author><category term="research" /><summary type="html">Enabling vertical take-off and landing while providing the ability to fly long ranges opens the door to a wide range of new real-world aircraft applications while improving many existing tasks. Tiltrotor vertical take-off and landing (VTOL) unmanned aerial vehicles (UAVs) are a better choice than fixed-wing and multirotor aircraft for such applications. Prior works on these aircraft have addressed the aerodynamic performance, design, modeling, and control. However, a less explored area is the study of their potential fault tolerance due to their inherent redundancy, which allows them to tolerate some degree of actuation failure. This paper introduces tolerance to several types of actuator failures in a tiltrotor VTOL aircraft.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://aerogjy.github.io/img/posts/2022-03-01-vtol/vtol_CAD.gif" /><media:content medium="image" url="https://aerogjy.github.io/img/posts/2022-03-01-vtol/vtol_CAD.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Robotic Depowdering for Additive Manufacturing via Pose Tracking</title><link href="https://aerogjy.github.io/depowdering/" rel="alternate" type="text/html" title="Robotic Depowdering for Additive Manufacturing via Pose Tracking" /><published>2022-02-24T12:00:00+00:00</published><updated>2022-02-24T12:00:00+00:00</updated><id>https://aerogjy.github.io/depowering</id><content type="html" xml:base="https://aerogjy.github.io/depowdering/">&lt;p&gt;With the rapid development of powder-based additive manufacturing, depowdering, a process of removing unfused powder that covers printed parts, has become a major bottleneck to further improve its productiveness. Traditional manual depowdering is extremely time-consuming and costly, and some prior automated systems lack adaptability to different parts. We introduce a robotic system to fully automate depowdering. The key component is a visual perception system, which consists of a pose tracking module that tracks the 6D pose of powder-occluded parts in real-time, and a progress estimation module that estimates the completion percentage. Our depowdering system can remove powder efficiently for various types of parts without causing any damage. To the best of our knowledge, this is one of the first vision-based, fully automated depowdering systems for additive manufacturing.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-02-24-depowdering/depowdering_setup.jpeg&quot; style=&quot;width:59%&quot; /&gt;
+ &lt;figcaption&gt;
+        (a) Examples of manual depowdering. Human operators use blowers, vacuums, and brushes to remove the unfused powder. (b) Overview
+of our depowdering system. The point cloud sequence from 3D cameras is fed into the visual perception system to track the 6D pose of the powder-
+occluded part. Based on the estimated pose, a depowdering path is generated for the robot to remove powder through vacuuming and air blasting.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;robotic-depowdering-system&quot;&gt;Robotic Depowdering System&lt;/h2&gt;
+&lt;p&gt;The architecture of the depowdering system consists of a visual perception system (VPS), and a motion planning system (MPS). The VPS tracks the part pose in real-time, extracts the powder contour around printed parts, and estimates the depowdering progress. The progress is defined as the height
+ratio between the visible portion of the part and the complete part. Then, based on the estimated pose and the powder contour, the MPS generates a depowdering path along the outer contour of the visible part surface.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-02-24-depowdering/depowdering_flowchart.jpg&quot; style=&quot;width:89%&quot; /&gt;
+ &lt;figcaption&gt;
+        The architecture of our system. The inputs to the system are the CAD model and the point cloud can. When the depowdering progress is at the  beginning phase, no tracking is performed, and the initial pose is used. Once the progress exceeds the pre-defined threshold, the core algorithm &quot;conditional update ICP&quot; starts running. The robot first removes powder through vacuuming, and then finishes up depowdering by air blasting.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;visual-perception-system&quot;&gt;Visual Perception System&lt;/h2&gt;
+&lt;p&gt;The goals of the VPS are to: (1) track the current 6D part pose in real-time. (2) identify the powder contour around the part and estimate the depowdering progress. With the known initial pose and the CAD model, we formulate the pose tracking problem as a real-time registration problem. The traditional ICP is able to align a source point cloud to a target point cloud by minimizing the L2 error without relying on feature extraction.&lt;/p&gt;
+
+&lt;p&gt;One major challenge for ICP is the target appearance variation. A common practice to address this is to update the template based on the current object appearance. However, neither using the entire CAD model as a template or update the template every frame by taking the overlap between the CAD model and the current point cloud scan is ideal. Because it either results in a mismatch between the template or the target or template quickly becomes erroneous&lt;/p&gt;
+
+&lt;p&gt;We propose a conditional template update strategy for ICP to avoid accumulated template update errors. Specifically, the template is updated only when the part appearance has changed significantly. In depowdering, this happens either when (1) more part surface becomes visible as more powder is cleaned or (2) printed parts have moved either by the depowdering tool or due to the loss of balance. Either scenario causes the powder distribution to change.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-02-24-depowdering/depowdering_trim.gif&quot; style=&quot;width:59%&quot; /&gt;
+ &lt;figcaption&gt;
+        Automatic Robotic Depowdering.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;related-paper&quot;&gt;Related Paper&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;IEEE Style:&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Z. Liu, J. Geng, X. Dai, T. Swierzewski, and K. Shimada, “Robotic Depowdering for Additive Manufacturing via Pose Tracking”, Under review. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Junyi Geng</name></author><category term="research" /><summary type="html">With the rapid development of powder-based additive manufacturing, depowdering, a process of removing unfused powder that covers printed parts, has become a major bottleneck to further improve its productiveness. Traditional manual depowdering is extremely time-consuming and costly, and some prior automated systems lack adaptability to different parts. We introduce a robotic system to fully automate depowdering. The key component is a visual perception system, which consists of a pose tracking module that tracks the 6D pose of powder-occluded parts in real-time, and a progress estimation module that estimates the completion percentage. Our depowdering system can remove powder efficiently for various types of parts without causing any damage. To the best of our knowledge, this is one of the first vision-based, fully automated depowdering systems for additive manufacturing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://aerogjy.github.io/img/posts/2022-02-24-depowdering/depowdering_trim.gif" /><media:content medium="image" url="https://aerogjy.github.io/img/posts/2022-02-24-depowdering/depowdering_trim.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">iCaps: Iterative Category-Level Object Pose and Shape Estimation</title><link href="https://aerogjy.github.io/icaps/" rel="alternate" type="text/html" title="iCaps: Iterative Category-Level Object Pose and Shape Estimation" /><published>2022-01-01T12:00:00+00:00</published><updated>2022-01-01T12:00:00+00:00</updated><id>https://aerogjy.github.io/icaps</id><content type="html" xml:base="https://aerogjy.github.io/icaps/">&lt;p&gt;Tracking 6D poses of objects provides rich information to robots in performing different tasks such as manipulation and navigation. Most techniques have so far mainly dealt with the instance-level 6D pose estimation, where a set of 3D CAD models of known instances are given as priors. This significantly limits the practical robotic applications since it can be expensive or even impossible to acquire the CAD models of all the objects.&lt;/p&gt;
+
+&lt;p&gt;In category-level 6D object pose estimation, a target object may be unseen during training and its 3D CAD model is not available. Without 3D CAD models, the correspondence matching approaches would run into a significant challenge under the considerable shape variations among objects. Therefore, the major challenge is how to handle the intra-class variability.&lt;/p&gt;
+
+&lt;p&gt;While more attention has been made in improving 6D pose estimation, object shape estimation, however, has been less explored. Good shape estimation
+can intuitively assist object pose estimation especially for category-level pose estimation where the intra-class variability is the major challenge.&lt;/p&gt;
+
+&lt;h2 id=&quot;category-level-auto-encoder&quot;&gt;Category-level Auto-encoder&lt;/h2&gt;
+&lt;p&gt;We propose a pose tracking framework using a Rao-Blackwellized particle filter (RBPF) with an auto-encoder network for measurement update.
+It takes into normalized depth image for arbitrary object in a category with domain randomization and map them to a low dimensional code, then reconstruct them in another normalized depth image for a canonical object within the same category under same orientation but without domain randomization. In this way, the code in the middle is independent of the object instances, but robust to the intra-class variation.
+With this auto-encoder network, we can pre-compute a codebook for object under our discretized orientation, the code with record the features represents how similar the current object orientation is with that in the codebook. So that we can use this as our observation prediction.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-01-01-icaps/ctgr_aae.png&quot; /&gt;
+ &lt;figcaption&gt;
+        Category-level Auto-encoder
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;category-level-6d-pose-tracking&quot;&gt;Category-level 6D Pose Tracking&lt;/h2&gt;
+&lt;p&gt;We factorize the states to the translation, object size, and the orientation distribution conditioned on the translation and size. The translation and size are used to determine bounding boxes and generate the normalized depth maps.
+They are fed to the auto-encoder network, the observation likelihood can then be computed by comparing the embedding and a precomputed codebook which encodes the canonical object in all the rotations.
+Intuitively, if the translation and size are sampled incorrectly, the auto-encoder will not generate meaningful embeddings, which will result in low matching score with all the embeddings in the codebook.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-01-01-icaps/system_diagram.png&quot; /&gt;
+ &lt;figcaption&gt;
+        Architecture the proposed category-level pose and shape estimation framework.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;shape-estimation-and-pose-refinment&quot;&gt;Shape Estimation and Pose Refinment&lt;/h2&gt;
+&lt;p&gt;After estimating the object’s pose and size, the point cloud is then converted to the object body frame and normalized by the size.
+Then we use a pointnet++ based deep neural network (LatentNet) to predict the shape latent. 
+The predicted shape latent can be used together with a DeepSDF decoder network to compute the SDF values.
+The pose and size can be further refined by minimizing the SDF values. 
+Since good pose and size estimate and shape latent estimate can improve each other. The pose refine and shape estimation can be performed iteratively.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2022-01-01-icaps/pose_v.png&quot; /&gt;
+ &lt;figcaption&gt;
+        Visualization of the category-level pose and shape estimation.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;&lt;iframe src=&quot;http://www.youtube.com/embed/3AMcM3uUaUw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;publication&quot;&gt;Publication&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{deng2022icaps,
+  title={iCaps: Iterative Category-level Object Pose and Shape Estimation},
+  author={Deng, Xinke and Geng, Junyi and Bretl, Timothy and Xiang, Yu and Fox, Dieter},
+  journal={IEEE Robotics and Automation Letters},
+  year={2022},
+  publisher={IEEE}
+}
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Junyi Geng</name></author><category term="research" /><summary type="html">Tracking 6D poses of objects provides rich information to robots in performing different tasks such as manipulation and navigation. Most techniques have so far mainly dealt with the instance-level 6D pose estimation, where a set of 3D CAD models of known instances are given as priors. This significantly limits the practical robotic applications since it can be expensive or even impossible to acquire the CAD models of all the objects.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://aerogjy.github.io/img/posts/2022-01-01-icaps/camera.gif" /><media:content medium="image" url="https://aerogjy.github.io/img/posts/2022-01-01-icaps/camera.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Control, Estimation and Planning for Coordinated Transport of a Slung Load by a Team of Aerial Robots</title><link href="https://aerogjy.github.io/multilift/" rel="alternate" type="text/html" title="Control, Estimation and Planning for Coordinated Transport of a Slung Load by a Team of Aerial Robots" /><published>2020-12-19T12:00:00+00:00</published><updated>2020-12-19T12:00:00+00:00</updated><id>https://aerogjy.github.io/multilift</id><content type="html" xml:base="https://aerogjy.github.io/multilift/">&lt;p&gt;Transporting slung load using a team of cooperative aerial robots, or denoted by the term multilift, can increase the utility of a fleet of smaller aerial robots by enabling the transport of large, heavy payloads via coordinated transport, which frees us from developing vehicles for extra-large payloads that occur only infrequently. However, the complexity of the coupled system dynamics and the difficulty of payload manipulation and coordinated control lead to challenges in operational development.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-comprehensive-hierarchical-load-leading-control-strategy&quot;&gt;A Comprehensive Hierarchical Load-leading Control Strategy&lt;/h2&gt;
+&lt;p&gt;The first challenge is what strategy to use to coordinately control the multilift so that the payload can be well manipulated. This is the core ingredient that determines the solutions of other parts of the system. The difficulty arises from the complexity of the multilift – the coupling between the aerial robots and the slung load. The complex coupling produces not only the high nonlinearity of the system, but also
+imposes differing control requirements for each component.&lt;/p&gt;
+
+&lt;p&gt;We have developed a comprehensive hierarchical control strategy for the multilift problem, where the payload can sense itself and lead the whole fleet. The strategy employs a “load-leading” design where the payload pose control, cable force computation, and robot kinematics commanding are achieved in a hierarchical manner. Unlike the conventional approach where the slung load is treated as an external disturbance of the robot formation, this approach proposes to attach sensors onboard the payload. It directly controls the payload pose while computing the required cable forces and robot states in real time. In this manner, the robots behaving as the actuator guarantees the feasibility of the desired payload pose. The strategy also enables convenient motion planning. The payload can either follow a pre-planned trajectory autonomously, or fly by human-in-the-loop control.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, We have developed a testbed consisting of four quadrotor robots and a payload. Flight tests have been successfully conducted in an indoor motion capture studio as well as outdoor with GPS
+information.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2020-12-19-multilift/scheme.png&quot; style=&quot;width:59%&quot; /&gt;
+ &lt;figcaption&gt;
+        Hierarchical Load-leading conrol strategy.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2020-12-19-multilift/37deg_disturbance_trim.gif&quot; style=&quot;width:41%&quot; /&gt;
+    &lt;img src=&quot;/img/posts/2020-12-19-multilift/fly_payload_trim_480.gif&quot; style=&quot;width:55%&quot; /&gt;
+    &lt;figcaption&gt;
+        Left: The system can reject impulse response; Right: The system can receive online command from a human pilot, instead of tracking a pre-planned trajectory thanks to the payload as the team leader.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2020-12-19-multilift/outdoor_short.gif&quot; style=&quot;width:70%&quot; /&gt;
+ &lt;figcaption&gt;
+        Outdoor lateral trajectory tracking test.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;slung-load-inertial-property-estimation&quot;&gt;Slung Load Inertial Property Estimation&lt;/h2&gt;
+&lt;p&gt;The second challenge hinges on the model accuracy needed in the load-leading strategy. This requires augmented perception capability of the payload. In scenarios such as search and rescue, payload properties may be unknown. However, accurate payload inertial properties, such as mass, center of
+mass, and moments of inertia, is important for achieving good transportation performance.&lt;/p&gt;
+
+&lt;p&gt;The ``load-leading’’ framework enables a strategy for estimating payload parameters so as to improve the model accuracy. I have developed an inertial properties estimation strategy for a multilift slung load without introducing any cable tension load cells, so as to reduce the total weight and system cost. The difficulty is how to design excitation strategy for the system to observe the unknown parameters. Here, additional challenge arises from the lack of cable tension sensor. I created an indirect method on the aerial robot side to estimate the cable force. Then, I designed a sequence of flight patterns that excite different inertial properties to be observable.&lt;/p&gt;
+
+&lt;p&gt;The estimation strategy has been validated indoor. Incorporating the estimated payload parameters into the loop significantly improves the tracking performance for the aerial robots. This study provides motivation and guidance on experiment design for system identification for complex system.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2020-12-19-multilift/figure_8.png&quot; style=&quot;width:39%&quot; /&gt;
+    &lt;img src=&quot;/img/posts/2020-12-19-multilift/tracking_error.png&quot; style=&quot;width:55%&quot; /&gt;
+    &lt;figcaption&gt;
+        Left: Controller compensation test. We flew the figure-8 pattern to excite the payload motion, and compared the case with or without controller compensation (with estimated parameters involved); Right: Rotor tracking error. Uncompensated case shows a significantly greater tracking error.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;trajectory-planning-and-control-based-on-load-distribution&quot;&gt;Trajectory Planning and Control Based on Load Distribution&lt;/h2&gt;
+&lt;p&gt;The third challenge is the power allocation of the individual robots for sustainable manipulation tasks. This limits the global transportation performance: if one of the robots runs out of energy, the transportation will breakdown due to highly coupled mechanism. In the case of a homogeneous fleet of robots carrying a payload, it is intuitively appealing to operate the robots at near-equal load, leaving little room for unequal load distribution and thus maximizing the energy efficiency.&lt;/p&gt;
+
+&lt;p&gt;The ``load-leading’’ framework also leads to convenient cooperative trajectory planning, which reduces to a simpler planning problem for the payload. I have developed a trajectory planning approach that simultaneously plans the slung load trajectory and cable forces while satisfying path and force
+constraints and minimizing the variance in cable tension. The load distribution based planning problem can thus be formulated as an optimal control problem.&lt;/p&gt;
+
+&lt;p&gt;The proposed approach has been validated both in simulation and indoor flight test. The robots ended up with near-equal energy consumption and less total power. The approach developed can be extended to other general multi-robot system to lower the power consumption and extend the flight range and endurance. Therefore, it has the potential for saving considerable costs in real cooperative mission.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2020-12-19-multilift/load_distribution.png&quot; style=&quot;width:59%&quot; /&gt;
+ &lt;figcaption&gt;
+        Comparison between with/without planning based on load distribution. Planning based on load distribution clearly reduced the cable tension variance.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;related-papers&quot;&gt;Related Papers&lt;/h2&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{geng2020cooperative,
+  title={Cooperative transport of a slung load using load-leading control},
+  author={Geng, Junyi and Langelaan, Jack W},
+  journal={Journal of Guidance, Control, and Dynamics},
+  volume={43},
+  number={7},
+  pages={1313--1331},
+  year={2020},
+  publisher={American Institute of Aeronautics and Astronautics}
+}
+
+@article{geng2021estimation,
+  title={Estimation of Inertial Properties for a Multilift Slung Load},
+  author={Geng, Junyi and Langelaan, Jack W},
+  journal={Journal of Guidance, Control, and Dynamics},
+  volume={44},
+  number={2},
+  pages={220--237},
+  year={2021},
+  publisher={American Institute of Aeronautics and Astronautics}
+}
+
+@article{geng2022load,
+  title={Load-Distribution-Based Trajectory Planning and Control for a Multilift System},
+  author={Geng, Junyi and Singla, Puneet and Langelaan, Jack W},
+  journal={Journal of Aerospace Information Systems},
+  volume={19},
+  number={5},
+  pages={366--381},
+  year={2022},
+  publisher={American Institute of Aeronautics and Astronautics}
+}
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Junyi Geng</name></author><category term="research" /><summary type="html">Transporting slung load using a team of cooperative aerial robots, or denoted by the term multilift, can increase the utility of a fleet of smaller aerial robots by enabling the transport of large, heavy payloads via coordinated transport, which frees us from developing vehicles for extra-large payloads that occur only infrequently. However, the complexity of the coupled system dynamics and the difficulty of payload manipulation and coordinated control lead to challenges in operational development.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://aerogjy.github.io/img/posts/2020-12-19-multilift/outdoor_short.gif" /><media:content medium="image" url="https://aerogjy.github.io/img/posts/2020-12-19-multilift/outdoor_short.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bio-inspired Inverted Landing Strategy in a Small Aerial Robot Using Policy Gradient</title><link href="https://aerogjy.github.io/inverted/" rel="alternate" type="text/html" title="Bio-inspired Inverted Landing Strategy in a Small Aerial Robot Using Policy Gradient" /><published>2020-10-24T12:00:00+00:00</published><updated>2020-10-24T12:00:00+00:00</updated><id>https://aerogjy.github.io/inverted-landing</id><content type="html" xml:base="https://aerogjy.github.io/inverted/">&lt;p&gt;Landing upside down is a challenging aerobatic feat that is rountinely performed by bats and many insects species such as flies, however, it is rarely achieved in small aerial robots using their onboard resources. Such capability is essential for small aerial robots as it not only expands the repertoire of aerobatic maneuvers, but also enables the robots to perch robustly on surfaces of various inclinations.
+Previous work has only achieved arguably less difficult landing types on horizontal, vertical or inclined surfaces with the help of external motion tracking or with specialized grasp mechanisms. 
+We propose a bio-inspired inverted landing strategy using computationally efficient Relative Retinal Expansion Velocity (RREV) as a visual cue. This landing strategy consists of a sequence of two motions, i.e. an upward acceleration and a rapid angular maneuver. A policy search algorithm is applied to optimize the landing strategy and improve its robustness by learning the transition timing between the two motions and the magnitude of the
+target body angular velocity.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2020-10-24-inverted-landing/framework.png&quot; style=&quot;width:50%&quot; /&gt;
+ &lt;figcaption&gt;
+        Overview of the inverted landing problem. This study consists of three parts: the reinforcement learning agent which learns the high level
+parameters for the bio-inspired landing strategy; the low level controller which controls the motion of the quadrotor according to the high level
+parameters and the states it received; and the simulated landing environment and quadrotor.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2020-10-24-inverted-landing/fly_landing.png&quot; style=&quot;width:60%&quot; /&gt;
+ &lt;figcaption&gt;
+        An example of the inverted landing of a fly and the visual cue RREV. (a) Flies land upside down on the ceiling by excuting a sequence of well coordinated behavioral modules. (b) The Relative Retina Expansion Velocity (RREV) is due to the looming stimuli when flies approach the ceiling.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;bio-inspired-landing-strategy&quot;&gt;Bio-Inspired Landing Strategy&lt;/h2&gt;
+&lt;p&gt;The inverted landing strategy extracted from the flies underlines a sequence of two motions: an upward acceleration and a rapid body rotation. More importantly, the transition timing of the two motions is determined by a threshold of RREV, and furthermore, the desired magnitude of the rotational maneuvers is linearly related to the RREV, and two other visual cues that encode the relative fore/aft and lateral ceiling rotation. Note that, as inspired by the flies’ landing strategy, the visual feedback is only used to trigger and determine the target degree of the angular maneuver,
+while it is not used during the angular maneuver per se, which is visually open-loop .&lt;/p&gt;
+
+&lt;p&gt;This landing strategy is simplified in two ways to apply to the aerial robot. First, as the quadrotor is symmetric in longitudinal and lateral, the rotation motion in the landing is restricted to only pitch. Second, the forward motion is assumed to be small in this work so that the fore/aft visual cue is negligible.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img src=&quot;/img/posts/2020-10-24-inverted-landing/RL.png&quot; style=&quot;width:50%&quot; /&gt;
+ &lt;figcaption&gt;
+        The reinforcement learning agent. The agent learns the distribution of two meta parameters, which are the transition timing between the two motions executed in the landing strategy, and the gain which determines the magnitude of the rotation velocity, respectively.
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;learning-process&quot;&gt;Learning Process&lt;/h2&gt;
+&lt;p&gt;To adapt and optimize the landing strategy learned from flies to a robot, we choose to use model-free Reinforcement Learning (RL) in this work.
+We present an application of the SyS-PEPG algorithm on a simulated nano quadrotor with the goal of achieving inverted landing on a ceiling. It consists of three parts (1) a RL agent which learns high level meta parameters; (2) the low level flight controller which generates desired rotor speed according to the high level parameters and quadrotor states it received; and (3) a simulated quadrotor with landing environment.&lt;/p&gt;
+
+&lt;p&gt;The quadrotor is assumed to be able to extract the visual cue RREV (which can be calculated directly from the optical flow using the optical flow sensor available to the quadcopter). The SyS-PEPG algorithm learns the distribution of two high level meta parameters, i.e. the threshold for RREV which determines the timing of the transition of the two motion primitives, and the gain which determines the magnitude of angular velocity.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/img/posts/2020-10-24-inverted-landing/results_a.png&quot; style=&quot;width:55%&quot; /&gt;
+    &lt;img src=&quot;/img/posts/2020-10-24-inverted-landing/results_b.png&quot; style=&quot;width:42%&quot; /&gt;
+    &lt;figcaption&gt;
+        A sample of a successful inverted landing. (a) The position and the animated landing sequence. (b) The time trajectory of RREV, linear
+velocity, attitude, and angular velocity of the quadrotor.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+
+&lt;h3 id=&quot;publication&quot;&gt;Publication&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@inproceedings{liu2020bio,
+  title={Bio-inspired inverted landing strategy in a small aerial robot using policy gradient},
+  author={Liu, Pan and Geng, Junyi and Li, Yixian and Cao, Yanran and Bayiz, Yagiz E and Langelaan, Jack W and Cheng, Bo},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={7772--7777},
+  year={2020},
+  organization={IEEE}
+}
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Junyi Geng</name></author><category term="research" /><summary type="html">Landing upside down is a challenging aerobatic feat that is rountinely performed by bats and many insects species such as flies, however, it is rarely achieved in small aerial robots using their onboard resources. Such capability is essential for small aerial robots as it not only expands the repertoire of aerobatic maneuvers, but also enables the robots to perch robustly on surfaces of various inclinations. Previous work has only achieved arguably less difficult landing types on horizontal, vertical or inclined surfaces with the help of external motion tracking or with specialized grasp mechanisms. We propose a bio-inspired inverted landing strategy using computationally efficient Relative Retinal Expansion Velocity (RREV) as a visual cue. This landing strategy consists of a sequence of two motions, i.e. an upward acceleration and a rapid angular maneuver. A policy search algorithm is applied to optimize the landing strategy and improve its robustness by learning the transition timing between the two motions and the magnitude of the target body angular velocity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://aerogjy.github.io/img/posts/2020-10-24-inverted-landing/title_post.png" /><media:content medium="image" url="https://aerogjy.github.io/img/posts/2020-10-24-inverted-landing/title_post.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
