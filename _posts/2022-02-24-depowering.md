@@ -57,8 +57,13 @@ We propose a conditional template update strategy for ICP to avoid accumulated t
 
 ### Related Paper
 
-*IEEE Style:* 
-
-```
-Z. Liu, J. Geng, X. Dai, T. Swierzewski, and K. Shimada, “Robotic Depowdering for Additive Manufacturing via Pose Tracking”, Under review. 
-```
+@article{liu2022robotic,
+  title={Robotic Depowdering for Additive Manufacturing Via Pose Tracking},
+  author={Liu, Zhenwei and Geng, Junyi and Dai, Xikai and Swierzewski, Tomasz and Shimada, Kenji},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={4},
+  pages={10770--10777},
+  year={2022},
+  publisher={IEEE}
+}
