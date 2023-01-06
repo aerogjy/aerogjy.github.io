@@ -1,6 +1,6 @@
 ---
-title: Junyi Geng
-subtitle: Get in touch with me
+title: Contact
+subtitle: Great minds are always welcome!
 layout: page
 show_sidebar: false
 hide_footer: true
@@ -8,15 +8,15 @@ hide_footer: true
 
 ## Email
 
-[junyigen@andrew.cmu.edu](mailto:junyigen@andrew.cmu.edu)
+[jgeng@psu.edu](mailto:jgeng@psu.edu)
 
 [junyigeng@gmail.com](mailto:junyigeng@gmail.com)
 
 
 ## Office 
 
-NSH 2103, Carnegie Mellon University
+224 Hammond Building, Pennsylvania State University
 
-5000 Forbes Ave, Pittsburgh, PA 15213
+University Park, PA 16801
 
 

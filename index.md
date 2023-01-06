@@ -14,13 +14,18 @@ hero_link_text2: See My Publication
 ---
 
 # About Me
-I am an incoming Assistant Professor with [Deparment of Aerospace Engineering](https://www.aero.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/) (Jan. 2023). I am currently a Postdoc Fellow with the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am a member of [AirLab](https://theairlab.org/).
+I am an Assistant Professor with [Deparment of Aerospace Engineering](https://www.aero.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/). 
 
-I was a Postdoc researcher of [Coordinated Science Lab](https://csl.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) working on robotic manipulation for high precision assembly. I received my Ph.D. and M.S. in [Aerospace Engineering](https://www.aero.psu.edu/) with a minor in [Electrical Engineering](https://www.eecs.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/), and my B.Eng. in Aircraft Design and Engineering at [Nanjing University of Aeronautics and Astronautics](https://studyatnuaa.org/).
+I was a Postdoc Fellow with the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was a member of [AirLab](https://theairlab.org/) working on aerial manipulation and eVTOL. Before that, I was a Postdoc researcher of [Coordinated Science Lab](https://csl.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) working on robotic manipulation for high precision assembly. I received my Ph.D. and M.S. in [Aerospace Engineering](https://www.aero.psu.edu/) with a minor in [Electrical Engineering](https://www.eecs.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/), and my B.Eng. in Aircraft Design and Engineering at [Nanjing University of Aeronautics and Astronautics](https://studyatnuaa.org/).
 
 My research goal is to advance state-of-the-art aerial autonomy by bridging the aerospace and robotic communities. My research is primarily concerned with perception and manipulation algorithms to enable high performance autonomy for aerial robots. I am enthusiastic about robotics and unmanned aerial system (UAS). I am also interested in optimization and machine learning and applying them on hardware. I love flying drones and building robots.
 
 # Recent News
+
+* <span style="color:red">01/2023:</span> I started serving as an Associate Editor (AE) for International Journal of Robotics Research (IJRR), one of the top robotics journals.
+
+* <span style="color:red">01/2023:</span> I started the new position at [Pennsylvania State University](https://www.psu.edu/).
+
 * <span style="color:red">04/2022:</span> I will join the [Deparment of Aerospace Engineering](https://www.aero.psu.edu/) at [Pennsylvania State University](https://www.psu.edu/) as an Assistant Professor in Jan. 2023. I have multiple openings for graduate students. Contact me if you are interested. 
 
 * <span style="color:red">01/2022:</span> I gave a talk for [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE) at [Purdue University](https://www.purdue.edu/). 
