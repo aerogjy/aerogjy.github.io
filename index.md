@@ -22,6 +22,8 @@ My research goal is to advance state-of-the-art aerial autonomy by bridging the 
 
 # Recent News
 
+* <span style="color:red">03/2023:</span> I gave a talk for the [Maryland Robotic Center](https://robotics.umd.edu/) "Microsoft Future Leader in Robotics and AI" seminar series at the [University of Maryland](https://www.umd.edu/).
+
 * <span style="color:red">01/2023:</span> I started serving as an Associate Editor (AE) for International Journal of Robotics Research (IJRR), one of the top robotics journals.
 
 * <span style="color:red">01/2023:</span> I started the new position at [Pennsylvania State University](https://www.psu.edu/).
