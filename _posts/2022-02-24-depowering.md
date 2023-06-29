@@ -55,7 +55,9 @@ We propose a conditional template update strategy for ICP to avoid accumulated t
 
 
 ### Related Paper
+*BibTeX:* 
 
+```
 @article{liu2022robotic,
   title={Robotic Depowdering for Additive Manufacturing Via Pose Tracking},
   author={Liu, Zhenwei and Geng, Junyi and Dai, Xikai and Swierzewski, Tomasz and Shimada, Kenji},
@@ -66,3 +68,5 @@ We propose a conditional template update strategy for ICP to avoid accumulated t
   year={2022},
   publisher={IEEE}
 }
+
+```
